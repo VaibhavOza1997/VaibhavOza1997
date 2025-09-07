@@ -10,12 +10,12 @@ At Fannie Mae, I improved incident response, automated deployments, optimized mo
 My toolkit spans cloud platforms, containers, CI/CD, monitoring, and infrastructure as code. I work with AWS, Google Cloud Platform (GCP), and Red Hat; containerization and orchestration tools like Docker, Kubernetes, and Helm; IaC and automation with Terraform and Ansible; CI/CD pipelines using Jenkins and GitHub Actions; observability stacks with Prometheus, Grafana, Splunk, and OpenTelemetry; and programming/scripting with Python, Go, Bash, SQL, and Java. Alongside these, I bring strong incident management and reliability engineering experience.
 
 <p align="left">
-   <a href="https://github.com/VaibhavOza1997?tab=followers">
-      <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/VaibhavOza1997?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    <a href="https://github.com/VaibhavOza1997?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/VaibhavOza1997?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <img alt="repositories" title="View My GitHub Repositories" src="https://custom-icon-badges.demolab.com/badge/-GitHub%20Repos-black?style=for-the-badge&logo=github&logoColor=white"/></a>
    <a href="https://www.linkedin.com/in/vaibhavoza/">
       <img alt="linkedin" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+   <a href="https://your-resume-link-here.com">
+      <img alt="resume" title="View My Resume" src="https://custom-icon-badges.demolab.com/badge/-Resume-green?style=for-the-badge&logo=readme&logoColor=white"/></a>
 </p>
 
 ---
