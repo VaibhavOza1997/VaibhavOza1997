@@ -1,35 +1,13 @@
 # 🚀 Vaibhav Oza  
 
-<table>
-<tr>
-<td width="250px" valign="top">
-
-<img src="https://avatars.githubusercontent.com/u/XXXXX?v=4" width="200" style="border-radius: 50%;" alt="Profile picture"/>
-
-**Site Reliability Engineer (SRE)**  
-📍 Chantilly, Virginia, USA  
-📧 [vboz1311@gmail.com](mailto:vboz1311@gmail.com)  
-📱 +1 (703) 634-8400  
-🔗 [LinkedIn](https://www.linkedin.com/in/vaibhavoza)  
-🔗 [GitHub](https://github.com/VaibhavOza1997)  
-
-**Languages:**  
-🇬🇧 English (Full Professional)  
-🇮🇳 Hindi (Native)  
-
-**Achievements:**  
-🥋 3rd DAN Taekwondo Instructor  
-
-</td>
-<td valign="top">
-
 **`Site Reliability Engineer | DevOps | AWS | Kubernetes | Monitoring & Automation`**
 
 I’m an SRE with experience in **production support, automation, and cloud infrastructure**.  
 I focus on building **reliable, scalable, and cost-efficient systems** by combining incident response expertise with modern **DevOps and observability practices**.  
 
 At **Fannie Mae**, I improved incident response, automated deployments, optimized monitoring with **Splunk/Prometheus**, and scripted away repetitive work — boosting uptime and reducing MTTR.  
-My toolbox includes **AWS, Docker, Kubernetes, Terraform, Jenkins, CI/CD pipelines, Ansible, Prometheus, Grafana, Splunk, Python, Shell, SQL**, and strong **incident management experience**.  
+
+My toolbox includes **AWS, Docker, Kubernetes, Terraform, Jenkins, Ansible, Prometheus, Grafana, Splunk, Python, Shell, SQL** and strong **incident management experience**.  
 
 <p align="left">
    <a href="https://github.com/VaibhavOza1997?tab=followers">
@@ -40,26 +18,22 @@ My toolbox includes **AWS, Docker, Kubernetes, Terraform, Jenkins, CI/CD pipelin
       <img alt="linkedin" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-</td>
-</tr>
-</table>
-
 ---
 
 ### 🧰 Tech Stack
 
-<img align="left" alt="AWS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
-<img align="left" alt="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<img align="left" alt="Kubernetes" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
-<img align="left" alt="Terraform" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"/>
-<img align="left" alt="Jenkins" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
-<img align="left" alt="Ansible" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"/>
-<img align="left" alt="Prometheus" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg"/>
-<img align="left" alt="Grafana" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"/>
-<img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
-<img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-<img align="left" alt="SQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
+<img align="left" alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img align="left" alt="Kubernetes" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
+<img align="left" alt="Terraform" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"/>
+<img align="left" alt="Jenkins" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
+<img align="left" alt="Ansible" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"/>
+<img align="left" alt="Prometheus" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg"/>
+<img align="left" alt="Grafana" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"/>
+<img align="left" alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
+<img align="left" alt="Bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+<img align="left" alt="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <br/>
 
 ---
@@ -99,6 +73,13 @@ My toolbox includes **AWS, Docker, Kubernetes, Terraform, Jenkins, CI/CD pipelin
 - Advanced RPA Developer  
 - QA Manual Software Testing: Live  
 - Project+Agile+JIRA+API  
+
+---
+
+### 🏆 Achievements
+
+🌟 Contributor – [Prometheus Alertmanager](https://github.com/prometheus/alertmanager)  
+🥋 3rd DAN Taekwondo Instructor  
 
 ---
 
