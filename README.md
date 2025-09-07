@@ -1,13 +1,13 @@
-# 🚀 Vaibhav Oza  
+🚀 Vaibhav Oza
 
-**`Site Reliability Engineer | DevOps | AWS | Kubernetes | Monitoring & Automation`**
+Site Reliability Engineer | DevOps | AWS | Kubernetes | Monitoring & Automation
 
-I’m an SRE with experience in **production support, automation, and cloud infrastructure**.  
-I focus on building **reliable, scalable, and cost-efficient systems** by combining incident response expertise with modern **DevOps and observability practices**.  
+I’m an SRE with experience in production support, automation, and cloud infrastructure.
+I focus on building reliable, scalable, and cost-efficient systems by combining incident response expertise with modern DevOps and observability practices.
 
-At **Fannie Mae**, I improved incident response, automated deployments, optimized monitoring with **Splunk/Prometheus**, and scripted away repetitive work — boosting uptime and reducing MTTR.  
+At Fannie Mae, I improved incident response, automated deployments, optimized monitoring with Splunk/Prometheus, and scripted away repetitive work — boosting uptime and reducing MTTR.
 
-My toolbox includes **AWS, Docker, Kubernetes, Terraform, Jenkins, Ansible, Prometheus, Grafana, Splunk, Python, Shell, SQL** and strong **incident management experience**.  
+My toolkit spans cloud platforms, containers, CI/CD, monitoring, and infrastructure as code. I work with AWS, Google Cloud Platform (GCP), and Red Hat; containerization and orchestration tools like Docker, Kubernetes, and Helm; IaC and automation with Terraform and Ansible; CI/CD pipelines using Jenkins and GitHub Actions; observability stacks with Prometheus, Grafana, Splunk, and OpenTelemetry; and programming/scripting with Python, Go, Bash, SQL, and Java. Alongside these, I bring strong incident management and reliability engineering experience.
 
 <p align="left">
    <a href="https://github.com/VaibhavOza1997?tab=followers">
