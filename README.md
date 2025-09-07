@@ -43,7 +43,7 @@ My toolbox includes **AWS, Docker, Kubernetes, Terraform, Jenkins, Ansible, Prom
 <img align="left" alt="RedHat" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original-wordmark.svg"/>
 <img align="left" alt="OpenTelemetry" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original-wordmark.svg"/>  
 
-<br/><br/>
+<br clear="left"/>
 
 
 ---
