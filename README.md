@@ -31,7 +31,7 @@ My toolbox includes **AWS, Docker, Kubernetes, Terraform, Jenkins, Ansible, Prom
 <img align="left" alt="Prometheus" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/prometheus/prometheus-original.svg"/>
 <img align="left" alt="Grafana" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/grafana/grafana-original.svg"/>
 <img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/linux/linux-original.svg"/>
-<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/python/python-plain.svg"/>
+<img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" alt="Bash" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/bash/bash-original.svg"/>
 <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/mysql/mysql-original.svg"/>
 <br/>
