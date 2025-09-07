@@ -67,7 +67,7 @@ My toolbox includes **AWS, Docker, Kubernetes, Terraform, Jenkins, Ansible, Prom
 
 ### 📜 Certifications
 
-- AWS Certified Cloud Practitioner  
+- AWS Certified Cloud Practitioner - [Verify Credentials](https://www.credly.com/badges/8496a63c-e81c-484d-a56d-451afc38289f/linked_in_profile)
 - Site Reliability Engineering: Measuring & Managing Reliability  
 - What is Business Analysis?  
 - Advanced RPA Developer  
