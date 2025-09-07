@@ -22,7 +22,7 @@ My toolbox includes **AWS, Docker, Kubernetes, Terraform, Jenkins, Ansible, Prom
 
 ### 🧰 Tech Stack
 
-<img align="left" alt="AWS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/amazonwebservices/amazonwebservices-original.svg"/>
+<img align="left" alt="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 <img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/docker/docker-original.svg"/>
 <img align="left" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/kubernetes/kubernetes-plain.svg"/>
 <img align="left" alt="Terraform" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/terraform/terraform-original.svg"/>
