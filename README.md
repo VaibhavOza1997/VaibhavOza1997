@@ -77,7 +77,7 @@ My toolbox includes **AWS, Docker, Kubernetes, Terraform, Jenkins, Ansible, Prom
 
 ### 📜 Certifications
 
-- 🏅 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/8496a63c-e81c-484d-a56d-451afc38289f/linked_in_profile) – Verify Credentials  
+- 🏅 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/8496a63c-e81c-484d-a56d-451afc38289f/linked_in_profile)
 - 📊 [Site Reliability Engineering: Measuring and Managing Reliability](https://coursera.org/share/ebdd713d15af5744a321ea977d5fcc14)  
 - 🎓 [Post Graduate Program in DevOps – Purdue Online](https://www.edureka.co/lms/certificate/dac30a4d9351a0399ff7360f0c95b86c)  
 - 🤖 [Google AI Essentials](https://coursera.org/share/e3132d1406dc048e69b8ce85d3411872)  
