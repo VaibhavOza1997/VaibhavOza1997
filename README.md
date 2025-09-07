@@ -67,7 +67,7 @@ My toolbox includes **AWS, Docker, Kubernetes, Terraform, Jenkins, Ansible, Prom
 
 ### 📜 Certifications
 
-### 📜 Certifications  
+### 📜 Certifications  https://github.com/VaibhavOza1997/devOPS_Project1
 
 - 🏅 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/8496a63c-e81c-484d-a56d-451afc38289f/linked_in_profile) – Verify Credentials  
 - 📊 [Site Reliability Engineering: Measuring and Managing Reliability](https://coursera.org/share/ebdd713d15af5744a321ea977d5fcc14)  
@@ -85,7 +85,7 @@ My toolbox includes **AWS, Docker, Kubernetes, Terraform, Jenkins, Ansible, Prom
 
 ### 📂 Featured Projects
 
-- ⚡ [CI/CD for Retail App](https://github.com/VaibhavOza1997/devops-project-1) – Jenkins + Docker + Kubernetes + Ansible  
+- ⚡ [CI/CD for Retail App](https://github.com/VaibhavOza1997/devOPS_Project1) – Jenkins + Docker + Kubernetes + Ansible  
 - 📊 [SRE Observability Stack](https://github.com/VaibhavOza1997/sre-observability) – Prometheus + Grafana + Alertmanager  
 - ☸️ [Kubernetes Lab](https://github.com/VaibhavOza1997/kubernetes-lab) – Multi-node Kubernetes cluster simulations  
 
