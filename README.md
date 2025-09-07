@@ -64,7 +64,7 @@ My toolbox includes **AWS, Docker, Kubernetes, Terraform, Jenkins, Ansible, Prom
 **Feat Systems – RPA Engineer (2019)**  
 - Designed & deployed **RPA workflows** → automated repetitive tasks.  
 
-*(More roles on LinkedIn)*  
+*(More roles on [LinkedIn](https://www.linkedin.com/in/vaibhavoza))* 
 
 ---
 
