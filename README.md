@@ -79,7 +79,6 @@ My toolbox includes **AWS, Docker, Kubernetes, Terraform, Jenkins, Ansible, Prom
 ### 🏆 Achievements
 
 🌟 Contributor – [Prometheus Alertmanager](https://github.com/prometheus/alertmanager)  
-🥋 3rd DAN Taekwondo Instructor  
 
 ---
 
