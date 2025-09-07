@@ -22,18 +22,18 @@ My toolbox includes **AWS, Docker, Kubernetes, Terraform, Jenkins, Ansible, Prom
 
 ### 🧰 Tech Stack
 
-<img align="left" alt="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
-<img align="left" alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<img align="left" alt="Kubernetes" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
-<img align="left" alt="Terraform" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"/>
-<img align="left" alt="Jenkins" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
-<img align="left" alt="Ansible" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"/>
-<img align="left" alt="Prometheus" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg"/>
-<img align="left" alt="Grafana" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"/>
-<img align="left" alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
-<img align="left" alt="Bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-<img align="left" alt="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="AWS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/amazonwebservices/amazonwebservices-original.svg"/>
+<img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/docker/docker-original.svg"/>
+<img align="left" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/kubernetes/kubernetes-plain.svg"/>
+<img align="left" alt="Terraform" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/terraform/terraform-original.svg"/>
+<img align="left" alt="Jenkins" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/jenkins/jenkins-original.svg"/>
+<img align="left" alt="Ansible" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/ansible/ansible-original.svg"/>
+<img align="left" alt="Prometheus" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/prometheus/prometheus-original.svg"/>
+<img align="left" alt="Grafana" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/grafana/grafana-original.svg"/>
+<img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/linux/linux-original.svg"/>
+<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/python/python-plain.svg"/>
+<img align="left" alt="Bash" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/bash/bash-original.svg"/>
+<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/mysql/mysql-original.svg"/>
 <br/>
 
 ---
@@ -66,8 +66,6 @@ My toolbox includes **AWS, Docker, Kubernetes, Terraform, Jenkins, Ansible, Prom
 ---
 
 ### 📜 Certifications
-
-### 📜 Certifications  https://github.com/VaibhavOza1997/devOPS_Project1
 
 - 🏅 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/8496a63c-e81c-484d-a56d-451afc38289f/linked_in_profile) – Verify Credentials  
 - 📊 [Site Reliability Engineering: Measuring and Managing Reliability](https://coursera.org/share/ebdd713d15af5744a321ea977d5fcc14)  
