@@ -94,8 +94,8 @@ My toolkit spans cloud platforms, containers, CI/CD, monitoring, and infrastruct
 ### 📂 Featured Projects
 
 - ⚡ [CI/CD for Retail App](https://github.com/VaibhavOza1997/devOPS_Project1) – Jenkins + Docker + Kubernetes + Ansible  
-- 📊 [SRE Observability Stack](https://github.com/VaibhavOza1997/sre-observability) – Prometheus + Grafana + Alertmanager  
 - ☸️ [Kubernetes Lab](https://github.com/VaibhavOza1997/kubernetes-lab) – Multi-node Kubernetes cluster simulations  
+- 🤖 [Auto-Heal SRE Platform](https://github.com/VaibhavOza1997/auto-heal-sre-platform) – AI-powered anomaly detection with Python + Go, integrated with Prometheus Alertmanager to trigger automatic Kubernetes remediation  
 
 ---
 
