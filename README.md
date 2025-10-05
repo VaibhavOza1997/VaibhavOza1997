@@ -14,8 +14,6 @@ My toolkit spans cloud platforms, containers, CI/CD, monitoring, and infrastruct
       <img alt="repositories" title="View My GitHub Repositories" src="https://custom-icon-badges.demolab.com/badge/-GitHub%20Repos-black?style=for-the-badge&logo=github&logoColor=white"/></a>
    <a href="https://www.linkedin.com/in/vaibhavoza/">
       <img alt="linkedin" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   <a href="https://your-resume-link-here.com">
-      <img alt="resume" title="View My Resume" src="https://custom-icon-badges.demolab.com/badge/-Resume-green?style=for-the-badge&logo=readme&logoColor=white"/></a>
 </p>
 
 ---
